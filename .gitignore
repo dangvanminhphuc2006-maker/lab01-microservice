@@ -1,0 +1,16 @@
+
+# Maven build
+**/target/
+
+# Environment variables
+**/.env
+
+# VS Code
+**/.vscode/
+
+# IDE
+.idea/
+*.iml
+
+# Logs
+*.log
